@@ -1,0 +1,15 @@
+nama : Tuni Giri saputri
+url profile github : github.com/TuniGiriSaputri
+algoritma : makan telur rebues
+1. pergi ke dapur
+2. ambil panci
+3. isi panci dengan airr
+4. ambil telur 
+5. masukkan telur kedalam panci 
+6. nyalakan kompor 
+7. tunggu hingga telur matang 
+8. matikan kompor 
+9. ambil telur 
+10. kupas telur 
+11. makan telur 
+
